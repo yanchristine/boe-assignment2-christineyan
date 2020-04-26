@@ -13,4 +13,4 @@ module.exports = isRightTriangle;
 
 console.log(isRightTriangle(5, 4, 3)); // true
 console.log(isRightTriangle(0, 0, 0)); // false
-console.log(isRightTriangle(-5, -4, -3)); // true
+console.log(isRightTriangle(-5, -4, -3)); // false
